@@ -1,4 +1,4 @@
-15:04:20 **** Build of configuration Debug for project ProgrammePrincial ****
+15:23:59 **** Build of configuration Debug for project ProgrammePrincial ****
 make all 
 Building file: ../ProgrammePrincial.cpp
 Invoking: GCC C++ Compiler
@@ -10,6 +10,6 @@ Invoking: GCC C++ Linker
 g++ -L"/home/etudiant/Bureau/TP4/tp3/Debug" -o "ProgrammePrincial"  ./ProgrammePrincial.o   -ltp3
 Finished building target: ProgrammePrincial
  
-15:04:24 **** Incremental Build of configuration Debug for project ProgrammePrincial ****
+15:24:02 **** Incremental Build of configuration Debug for project ProgrammePrincial ****
 make all 
 make: rien à faire pour « all ».
